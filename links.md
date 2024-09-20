@@ -25,5 +25,23 @@ OSDev.org is a treasure trove of resources for those interested in developing th
 ### 6. [Carnegie Mellon University: Introduction to Computer Systems](https://www.cs.cmu.edu/~213/)
 Carnegie Mellon's course "15-213/18-213: Introduction to Computer Systems" is esteemed for its comprehensive and practical approach to computer systems, including a strong emphasis on operating systems. This course offers lecture notes, lab assignments, and extensive reading materials that explore system-level programming, virtual memory, concurrency, and networking. It's an excellent resource for students seeking to understand the complex interplay between hardware and software in modern computing systems.
 
+### 7. [Explaining File Systems: NTFS, exFAT, FAT32, ext4 & More](https://www.youtube.com/watch?v=_h30HBYxtws)
+This video offers a comprehensive explanation of various file systems that are widely used in storage devices. It covers:
+
+- **NTFS**: A file system commonly used by Windows operating systems.
+- **exFAT**: An optimized file system for flash drives and external devices.
+- **FAT12, FAT16, FAT32**: Early file systems used in older systems and removable storage.
+- **ext1 to ext4**: Ext4 is highlighted as the preferred format for Linux devices due to its performance, stability, and feature set.
+- **HFS+**: A file system developed by Apple.
+- **APFS**: Apple's modern file system, known for its speed and efficiency.
+
+The video explains why **ext4** is often chosen for Linux systems, emphasizing its advantages over other file systems when it comes to Linux environments.
+
+### 8. [Basics of OS (I/O Structure)](https://www.youtube.com/watch?v=F18RiREDkwE)
+This video provides an introduction to how operating systems handle Input/Output (I/O) operations. It covers:
+
+- The role of the OS in managing communication between hardware and software.
+- How the OS ensures efficient data transfer between devices and programs.
+- Key mechanisms that allow the OS to handle various I/O processes smoothly, contributing to system stability and performance.
 <br>
 <hr>
