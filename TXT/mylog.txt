@@ -11,3 +11,7 @@ ZCZC W01 60 L11 Assignment 1
 ZCZC W02 60 L12 Assignment 2
 ZCZC W02 45 L26 GnuPG, key-gen, encrypt/decrypt.
 ZCZC W02 30 L27 SSH, key-gen, tunneling, putty, winscp
+ZCZC W03 60 L13 Assignment 3
+ZCZC W03 90 L99 Other (Sholat Jumat)
+ZCZC W03 30 L64 Helping a friend (OS related problem)
+ZCZC W03 60 L32 YouTube: watching OS related topics, etc.
