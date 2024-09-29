@@ -15,3 +15,8 @@ ZCZC W03 60 L13 Assignment 3
 ZCZC W03 90 L99 Other (Sholat Jumat)
 ZCZC W03 30 L64 Helping a friend (OS related problem)
 ZCZC W03 60 L32 YouTube: watching OS related topics, etc.
+ZCZC W04 20 L05 Quiz
+ZCZC W04 30 L02 Quiz Zoom Meeting
+ZCZC W04 30 L82 Reading Book (paper or online)
+ZCZC W04 45 L64 Helping a friend (OS related problem)
+ZCZC W04 10 L73 Gaming including Board Games.

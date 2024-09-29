@@ -43,5 +43,15 @@ This video provides an introduction to how operating systems handle Input/Output
 - The role of the OS in managing communication between hardware and software.
 - How the OS ensures efficient data transfer between devices and programs.
 - Key mechanisms that allow the OS to handle various I/O processes smoothly, contributing to system stability and performance.
+
+### 9. [Explaining File Systems: NTFS, exFAT, FAT32, ext4 & More](https://www.youtube.com/watch?v=_h30HBYxtws)
+This video provides a comprehensive explanation of various file systems widely used in storage devices. It discusses **NTFS** (commonly used by Windows operating systems), **exFAT** (optimized for flash drives and external devices), **FAT12, FAT16, FAT32** (early file systems used in older systems and removable storage), **ext1 to ext4** (with ext4 highlighted as the preferred format for Linux devices due to its performance, stability, and feature set), **HFS+** (developed by Apple), and **APFS** (Apple's modern file system known for its speed and efficiency). The video elucidates why **ext4** is favored for Linux systems, emphasizing its advantages over other file systems in Linux environments.
+
+### 10. [Basics of OS (I/O Structure)](https://www.youtube.com/watch?v=F18RiREDkwE)
+This video offers an introduction to how operating systems handle Input/Output (I/O) operations, a crucial aspect for system stability and performance. It details the role of the operating system in managing communication between hardware and software, ensuring efficient data transfer between devices and programs. It also covers key mechanisms that enable the operating system to manage various I/O processes smoothly, contributing significantly to overall system responsiveness and reliability.
+
+### 11. [The Linux Programming Interface Book](https://github.com/rangaeeeee/books-raspberrypimagazines/blob/master/The%20Linux%20Programming%20Interface-Michael%20Kerrisk.pdf)
+This online resource is a digital copy of "The Linux Programming Interface" by Michael Kerrisk, which provides an in-depth look at the low-level programming interface for Linux. It is an essential guide for programmers who wish to harness the full potential of Linux. The book covers a broad spectrum of Linux system programming, including file I/O, process management, scheduling, and threading, making it an invaluable resource for understanding the intricate operations of Linux at a system level.
+
 <br>
 <hr>
