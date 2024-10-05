@@ -20,3 +20,7 @@ ZCZC W04 30 L02 Quiz Zoom Meeting
 ZCZC W04 30 L82 Reading Book (paper or online)
 ZCZC W04 45 L64 Helping a friend (OS related problem)
 ZCZC W04 10 L73 Gaming including Board Games.
+ZCZC W05 10 L05 Quiz
+ZCZC W05 30 L02 Quiz Zoom Meeting
+ZCZC W05 45 L64 Helping a friend (OS related problem)
+ZCZC W05 30 L82 Reading Book (paper or online)
