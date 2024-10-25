@@ -58,5 +58,15 @@ This playlist delves into the concept of virtual memory in Linux, explaining the
 
 ### 13. [Process Synchronization](http://www.youtube.com/watch?v=ph2awKa8r5Y&list=PLBlnK6fEyqRjDf_dmCEXgl6XjVKDDj0M2&index=1&ab_channel=NesoAcademy)
 This video introduces the critical topic of process synchronization, discussing cooperating processes and the shared memory system. It explains how race conditions can occur in concurrent processes and highlights the methods used to prevent these conditions. By the end of the video, viewers will have a clearer understanding of process synchronization techniques, including mutual exclusion and semaphores, which are vital for ensuring the correct execution of concurrent processes in an operating system.
+
+### 14. [Memory Management in Operating System - Geek for Geeks](https://www.geeksforgeeks.org/memory-management-in-operating-system/)
+This Geek for Geeks article dives deep into memory management in operating systems, covering essential topics such as main memory, the necessity of memory management, logical vs. physical address space, and the concepts of static and dynamic loading and linking. It also explores mechanisms like swapping and contiguous memory allocation. This resource is invaluable for students and professionals aiming to understand the intricacies of how operating systems manage the crucial resource of memory to optimize both program performance and system efficiency.
+
+### 15. [Paging & Page Replacement Algorithms in OS - YouTube Playlist](https://youtube.com/playlist?list=PLIY8eNdw5tW-BxRY0yK3fYTYVqytw8qhp&si=-w81shv3xIyPeLlH)
+This YouTube playlist provides a comprehensive tutorial on paging and page replacement algorithms, which are pivotal in memory management within operating systems. The videos cover the fundamentals of paging, the occurrence of page faults, and detailed explanations of various page replacement algorithms. This series is an excellent practical resource for those who prefer visual and auditory learning methods, helping viewers understand how operating systems ensure efficient memory use and minimize page faults.
+
+### 16. [Page Replacement Algorithms - Geek for Geeks](https://www.geeksforgeeks.org/page-replacement-algorithms-in-operating-systems/)
+Geek for Geeks offers a detailed exploration of page replacement algorithms in operating systems through this article. It explains the importance of these algorithms in the context of paging to manage memory more efficiently. The discussion includes several specific algorithms, such as FIFO (First-In, First-Out), LRU (Least Recently Used), and Optimal Page Replacement, providing scenarios and examples to illustrate how each algorithm operates and impacts system performance. This article is ideal for those who prefer a text-based approach to learning complex technical concepts.
+
 <br>
 <hr>
