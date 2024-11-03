@@ -28,3 +28,7 @@ ZCZC W06 30 L16 Assignment 6
 ZCZC W06 90 L99 Other (Sholat Jumat)
 ZCZC W06 45 L82 Reading Book (paper or online about os)
 ZCZC W06 30 L64 Helping a friend (OS related problem)
+ZCZC W07 30 L17 Assignment 7
+ZCZC W07 30 L32 YouTube: watching OS related topics, etc.
+ZCZC W07 60 L64 Helping a friend (OS related problem)
+

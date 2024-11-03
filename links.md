@@ -68,5 +68,30 @@ This YouTube playlist provides a comprehensive tutorial on paging and page repla
 ### 16. [Page Replacement Algorithms - Geek for Geeks](https://www.geeksforgeeks.org/page-replacement-algorithms-in-operating-systems/)
 Geek for Geeks offers a detailed exploration of page replacement algorithms in operating systems through this article. It explains the importance of these algorithms in the context of paging to manage memory more efficiently. The discussion includes several specific algorithms, such as FIFO (First-In, First-Out), LRU (Least Recently Used), and Optimal Page Replacement, providing scenarios and examples to illustrate how each algorithm operates and impacts system performance. This article is ideal for those who prefer a text-based approach to learning complex technical concepts.
 
+### 17. [File Systems in Operating Systems - freeCodeCamp](https://www.freecodecamp.org/news/file-systems-architecture-explained/)
+This article on freeCodeCamp provides a comprehensive overview of file systems, explaining their role within operating systems and detailing different types, such as FAT32, NTFS, ext4, and APFS. It covers concepts like file system architecture, file allocation tables, metadata storage, and how operating systems organize data on storage devices. The article also explains the concept of mounting a file system, which allows the OS to access and manage files on different storage devices. This resource is excellent for understanding how different file systems handle data storage and retrieval, as well as the advantages and limitations of each type.
+
+### 18. [File Allocation Methods - Geeks for Geeks](https://www.geeksforgeeks.org/file-allocation-methods/)
+This Geeks for Geeks article explores the three primary file allocation methods in computer storage systems:
+
+- **Contiguous Allocation**: This method allocates consecutive blocks to a file, which allows fast access since the file can be read sequentially without seeking. However, it can lead to fragmentation and is less flexible for dynamic file sizes.
+  
+- **Linked Allocation**: In this method, files are stored in blocks linked together through pointers. This avoids fragmentation but can result in slower access times due to the need to follow pointers from block to block.
+  
+- **Indexed Allocation**: Indexed allocation maintains an index block containing pointers to all the blocks used by the file, allowing direct access to any block. This approach combines the benefits of the other two methods, providing both speed and flexibility, though it requires additional storage for the index.
+
+This article includes examples and diagrams to illustrate how each allocation method manages space and handles read/write operations, making it ideal for students and professionals interested in storage management within OSes.
+
+### 19. [The Linux Filesystem Explained | How Each Directory is Used - YouTube](https://youtu.be/P0QZnAnsQ4c?si=tBHokisAdSIErisN)
+This video provides an in-depth guide to the Linux filesystem hierarchy, explaining the purpose of each top-level directory within the Linux file structure. The video covers common directories such as:
+
+- **/bin**: Contains essential binary executables required for the system to boot and operate in single-user mode.
+- **/etc**: Stores configuration files for the system and installed applications.
+- **/home**: User-specific files and directories for each user on the system.
+- **/var**: Stores variable files, such as logs, caches, and temporary files.
+- **/usr**: Contains user programs and utilities, divided into subdirectories like `/usr/bin` for binaries and `/usr/share` for shared data.
+
+By explaining the function of each directory, this video provides a roadmap for navigating and understanding the structure of Linux-based systems, making it a valuable resource for new Linux users and administrators looking to deepen their knowledge of the filesystem layout.
+
 <br>
 <hr>
