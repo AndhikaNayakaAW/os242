@@ -93,5 +93,40 @@ This video provides an in-depth guide to the Linux filesystem hierarchy, explain
 
 By explaining the function of each directory, this video provides a roadmap for navigating and understanding the structure of Linux-based systems, making it a valuable resource for new Linux users and administrators looking to deepen their knowledge of the filesystem layout.
 
+## 20. [Operating System - Processes](https://www.tutorialspoint.com/operating_system/os_processes.htm)
+This comprehensive article dives into the key concepts of processes within an operating system. The topics covered include:
+
+- **Definition of Processes**: A process is described as a program in execution, encompassing its current activity and state.
+- **Process Structure**:
+  - **Stack**: Holds temporary data like function parameters, return addresses, and local variables.
+  - **Heap**: Used for dynamic memory allocation during process runtime.
+  - **Text Section**: Contains the executable code.
+  - **Data Section**: Stores global and static variables.
+- **Process Life Cycle**: Details the states a process undergoes such as new, ready, running, waiting, and terminated, with transitions explained.
+- **Process Control Block (PCB)**: Discusses the PCB's role in storing all the process-related information, including:
+  - Process state
+  - Process ID
+  - Program counter
+  - CPU registers
+  - Memory management info
+  - I/O status
+
+This resource provides an essential understanding of how operating systems manage processes, which is crucial for system programming and OS development.
+
+## 21. [The fork() Function in C](https://youtu.be/cex9XrZCU14?si=FlXa_X26n8g6IA1f)
+This YouTube video provides a practical introduction to the `fork()` system call in C, which is fundamental for process creation in Unix-based systems. Key points include:
+
+- **What is `fork()`?**: Explains that `fork()` creates a new child process that runs concurrently with the parent process, duplicating the parent's process space.
+- **Child and Parent Process Differentiation**: Shows how to use the return value of `fork()` to differentiate between the parent process (returns the child’s PID) and the child process (returns 0).
+- **Common Use Cases**: Discusses practical uses like creating background tasks and handling multiple client connections in server applications.
+- **Error Handling**: Demonstrates checking for `fork()` failure, where it returns -1 if resources are insufficient.
+- **Practical Examples**: Provides code examples that illustrate `fork()` usage and behavior, addressing challenges like race conditions and zombie processes.
+
+The video’s playlist further explores related functions:
+- **`wait()` Function**: Helps the parent process wait for child process termination to avoid zombie processes.
+- **`exec()` Family of Functions**: Replaces the current process image with a new program.
+- **Inter-Process Communication (Pipes)**: Demonstrates how processes can communicate using pipes for data transfer.
+
+This video is an invaluable resource for developers looking to understand process management and concurrent programming in C.
 <br>
 <hr>

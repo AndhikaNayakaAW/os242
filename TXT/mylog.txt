@@ -31,4 +31,6 @@ ZCZC W06 30 L64 Helping a friend (OS related problem)
 ZCZC W07 30 L17 Assignment 7
 ZCZC W07 30 L32 YouTube: watching OS related topics, etc.
 ZCZC W07 60 L64 Helping a friend (OS related problem)
-
+ZCZC W08 30 L18 Assignment 8
+ZCZC W08 30 L32 YouTube: watching OS related topics, etc.
+ZCZC W08 60 L64 Helping a friend (OS related problem)
