@@ -128,5 +128,38 @@ The video’s playlist further explores related functions:
 - **Inter-Process Communication (Pipes)**: Demonstrates how processes can communicate using pipes for data transfer.
 
 This video is an invaluable resource for developers looking to understand process management and concurrent programming in C.
+
+## 22. [CPU Scheduling in Operating Systems](https://www.geeksforgeeks.org/cpu-scheduling-in-operating-systems/)
+This article provides a detailed introduction to CPU scheduling in operating systems, emphasizing its role in optimizing system performance. It explains the concept of process scheduling, which is critical for ensuring that the CPU executes tasks efficiently. The article also explores the need for CPU scheduling algorithms and their objectives, such as minimizing waiting time, maximizing CPU utilization, and achieving fairness among processes. The scheduling algorithms discussed include:
+- **First Come First Serve (FCFS)**: Simple and straightforward but can lead to the convoy effect.
+- **Shortest Job First (SJF)**: Optimizes average waiting time but requires prior knowledge of job durations.
+- **Longest Job First (LJF)**: Focuses on completing longer processes first.
+- **Priority Scheduling**: Assigns priority levels to processes, executed based on priority.
+- **Round Robin (RR)**: Ideal for time-sharing systems with a fixed time quantum.
+- **Shortest Remaining Time First (SRTF)**: Preemptive version of SJF, handling dynamic process arrivals efficiently.
+
+Each algorithm is explained with examples and scenarios to help readers understand their practical applications and limitations.
+
+## 23. [Linux From Scratch Version 12.0](https://www.linuxfromscratch.org/lfs/view/12.0/)
+Linux From Scratch (LFS) 12.0 is a comprehensive guide that walks you through building a custom Linux distribution from the ground up. The book provides step-by-step instructions on compiling and installing critical components, such as:
+- **Linux Kernel**: The core of the operating system.
+- **GNU Toolchain**: Includes compilers, linkers, and debugging tools.
+- **Essential System Utilities**: Covers libraries and basic tools necessary for system operation.
+
+By following this guide, you will gain:
+- An in-depth understanding of how a Linux system is constructed.
+- Insights into dependencies and system configuration.
+- Knowledge of how to customize Linux to suit specific needs.
+
+This resource is ideal for learners seeking to deepen their understanding of Linux, system administration, and operating system design.
+
+## 24. [LFS 12.0 - How to Build Linux From Scratch 12.0](https://www.youtube.com/playlist?list=PLyc5xVO2uDsA5QPbtj_eYU8J0qrvU6315)
+This YouTube playlist by Kernotex complements the **Linux From Scratch (LFS)** book, providing a hands-on video tutorial for building your own Linux distribution. Key features of the playlist include:
+- **Step-by-Step Guidance**: Demonstrates each chapter of the LFS book with real-time video explanations.
+- **Common Errors and Fixes**: Highlights typical pitfalls and offers solutions to troubleshooting issues.
+- **Visual Learning**: Explains complex concepts like kernel compilation and toolchain setup with practical examples.
+
+The playlist is particularly helpful for beginners who find the LFS book challenging, offering clear guidance and real-time demonstrations to bridge the gap between theory and practice.
+
 <br>
 <hr>
